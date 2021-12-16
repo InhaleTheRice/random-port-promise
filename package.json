@@ -1,0 +1,27 @@
+{
+  "name": "random-port-promise",
+  "version": "1.0.1",
+  "description": "A promise that returns a random free port (a promise wrapper around `random-port`).",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InhaleTheRice/random-port-promise.git"
+  },
+  "keywords": [
+    "random",
+    "port",
+    "promise"
+  ],
+  "author": "Joseph Caruso <InhaleTheRice@purplegem.studio> (InhaleTheRice)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/InhaleTheRice/random-port-promise/issues"
+  },
+  "homepage": "https://github.com/InhaleTheRice/random-port-promise#readme",
+  "dependencies": {
+    "random-port": "^0.1.0"
+  }
+}
